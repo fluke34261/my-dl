@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0168c0870d556fc8",
+        "id": "6ef386d1aa9bfa21",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6a90b3c8e1c1d1",
+            "id": "1dc73408cb2452da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,19 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6a5cc2f73d0eb6b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
+              "state": {
+                "file": "readme.md"
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e6a90b3c8e1c1d1",
+  "active": "1dc73408cb2452da",
   "lastOpenFiles": [
+    "01-Starter.md",
     "readme.md",
-    "Document.md",
-    "Conda Environment Guide.md",
     "Conda Installation Ubuntu OS.md",
+    "Conda Environment Guide.md",
+    "Document.md",
     "https:/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@github.com/fluke34261/my-dl.git",
     "https:/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@github.com/fluke34261",
     "https:/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@github.com",
