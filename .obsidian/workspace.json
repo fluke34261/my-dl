@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "1f6614d1e9b340ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "0168c0870d556fc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6a90b3c8e1c1d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67ff4ad0a1d791ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "629a6c146b7573d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b147fce1b842f82",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4c63b722bfcb023",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4647f385e2fde92f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3b244143513c18d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cc2e6be75772c2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7803dd415f3e042a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68ab84ebac01d04c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0b9162fae7177ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ec4a384c6bc2b80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6a5cc2f73d0eb6b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8e6a90b3c8e1c1d1",
+  "lastOpenFiles": [
+    "readme.md",
+    "Document.md",
+    "Conda Environment Guide.md",
+    "Conda Installation Ubuntu OS.md",
+    "https:/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@github.com/fluke34261/my-dl.git",
+    "https:/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@github.com/fluke34261",
+    "https:/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@github.com",
+    "https:"
+  ]
+}
