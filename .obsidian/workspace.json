@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "938b3a3408c9a16e",
+        "id": "23849edc7ce13015",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d50b501e3dee33",
+            "id": "67c9291fe843aa8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8d50b501e3dee33",
+  "active": "67c9291fe843aa8f",
   "lastOpenFiles": [
-    "Conda Environment Guide.md",
     "readme.md",
+    "02-DataType.md",
+    "Conda Environment Guide.md",
     "Conda Installation Ubuntu OS.md",
+    "Conda.md",
     "01-Starter.md",
     "Document.md",
     "https:/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@github.com/fluke34261/my-dl.git",
