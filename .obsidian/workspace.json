@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conda Environment Guide.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conda Environment Guide.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conda Environment Guide.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conda Environment Guide.md"
+                "file": "readme.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "d8d50b501e3dee33",
   "lastOpenFiles": [
+    "Conda Environment Guide.md",
     "readme.md",
     "Conda Installation Ubuntu OS.md",
-    "Conda Environment Guide.md",
     "01-Starter.md",
     "Document.md",
     "https:/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@github.com/fluke34261/my-dl.git",
