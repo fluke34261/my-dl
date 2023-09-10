@@ -1,8 +1,13 @@
-### Conda
-- [Conda Environment Guide](Conda%20Environment%20Guide.md)
-- [Conda Installation Ubuntu OS](Conda%20Installation%20Ubuntu%20OS.md)
+
+## Conda
+[Conda](Conda.md)
+
+## Pytorch
+[Pytorch Learning](Pytorch%20Learning.md)
+
+## MONAI
+[MONAI Learning](MONAI%20Learning.md)
 
 
-### Pytorch
-- [01-Starter](01-Starter.md)
-- [02-DataType](02-DataType.md)
+## Prostate Segmentation
+[Prostate Segmentation](Prostate%20Segmentation.md)
