@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52f0bd9a37926f56",
+        "id": "898fcbdf2058827c",
         "type": "tabs",
         "children": [
           {
-            "id": "4e192cc2509fb699",
+            "id": "f0a1abee9d70ce5b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,31 +138,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e192cc2509fb699",
+  "active": "f0a1abee9d70ce5b",
   "lastOpenFiles": [
-    "Method.md",
+    "Prostate Segmentation/Method/Method.md",
+    "Prostate Segmentation/Method/MONAI",
+    "Prostate Segmentation/Method/MONAI/MONAI.md",
     "readme.md",
-    "Prostate Segmentation.md",
-    "Data Acquisition.md",
-    "MONAI Learning.md",
-    "Pytorch Learning.md",
-    "Conda.md",
-    "Unet Baseline.md",
-    "Pytorch-Unet.md",
-    "Pytorch Original.md",
-    "MONAI.md",
-    "Baseline.md",
-    "MONAI-Unet.md",
-    "02-DataType.md",
-    "nnUnet Baseline.md",
+    "Prostate Segmentation/Method/Baseline/Baseline.md",
+    "Prostate Segmentation/Method/Baseline/nnUnet Baseline.md",
+    "Prostate Segmentation/Method/Pytorch/Pytorch Original.md",
+    "Prostate Segmentation/Method/Pytorch",
+    "Prostate Segmentation/Method/Baseline",
+    "MONAI/MONAI-Unet.md",
+    "Prostate Segmentation/Method",
+    "Pytorch Starter/Pytorch Learning.md",
+    "Prostate Segmentation/Method/Pytorch/Pytorch-Unet.md",
+    "Prostate Segmentation/Prostate Segmentation.md",
+    "Prostate Segmentation/Data Acquisition.md",
+    "MONAI/MONAI Learning.md",
+    "MONAI",
+    "Conda/Conda.md",
+    "Pytorch Starter/01-Starter.md",
+    "Conda",
+    "Pytorch Starter",
+    "Prostate Segmentation",
+    "Prostate Segmentation/Method/Baseline/Unet Baseline.md",
+    "Pytorch Starter/02-DataType.md",
     "Untitled.md",
-    "Conda Environment Guide.md",
-    "Conda Installation Ubuntu OS.md",
-    "01-Starter.md",
+    "Conda/Conda Environment Guide.md",
+    "Conda/Conda Installation Ubuntu OS.md",
     "Document.md",
     "https:/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@github.com/fluke34261/my-dl.git",
-    "https:/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@github.com/fluke34261",
-    "https:/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@github.com",
-    "https:"
+    "https:/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@github.com/fluke34261"
   ]
 }
