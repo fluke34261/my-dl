@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "898fcbdf2058827c",
+        "id": "5309cd908ee6fe7b",
         "type": "tabs",
         "children": [
           {
-            "id": "f0a1abee9d70ce5b",
+            "id": "c407f1570ed2eeaf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0a1abee9d70ce5b",
+  "active": "c407f1570ed2eeaf",
   "lastOpenFiles": [
+    "readme.md",
+    "Pytorch Starter/Pytorch Learning.md",
+    "prostate_cancer_segmentation/preparation/scope_positive_cases/plots/10032_1000032.png",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/positive_case.csv",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/plots/11475_1001499.png",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/plots/11462_1001486.png",
@@ -150,7 +153,6 @@
     "prostate_cancer_segmentation/preparation/scope_positive_cases/plots/11385_1001409.png",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/plots/11384_1001408.png",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/plots/11375_1001398.png",
-    "prostate_cancer_segmentation/preparation/scope_positive_cases/plots/11373_1001396.png",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/plots",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/monai_test.ipynb",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/data_viewer_2213.ipynb",
@@ -160,15 +162,12 @@
     "prostate_cancer_segmentation/preparation/scope_positive_cases/2_show_cases.ipynb",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/2_1_show_cases-one.ipynb",
     "prostate_cancer_segmentation/preparation/scope_positive_cases/1_extract_cases.ipynb",
-    "prostate_cancer_segmentation/preparation/scope_positive_cases",
     "Prostate Segmentation/Method/Method.md",
     "Prostate Segmentation/Method/MONAI/MONAI.md",
-    "readme.md",
     "Prostate Segmentation/Method/Baseline/Baseline.md",
     "Prostate Segmentation/Method/Baseline/nnUnet Baseline.md",
     "Prostate Segmentation/Method/Pytorch/Pytorch Original.md",
     "MONAI/MONAI-Unet.md",
-    "Pytorch Starter/Pytorch Learning.md",
     "Prostate Segmentation/Method/Pytorch/Pytorch-Unet.md",
     "Prostate Segmentation/Prostate Segmentation.md",
     "Prostate Segmentation/Data Acquisition.md",
