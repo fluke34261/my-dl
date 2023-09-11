@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c037f3fa5364cd60",
+        "id": "52f0bd9a37926f56",
         "type": "tabs",
         "children": [
           {
-            "id": "1a1a3a84d1a65966",
+            "id": "4e192cc2509fb699",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a1a3a84d1a65966",
+  "active": "4e192cc2509fb699",
   "lastOpenFiles": [
+    "Method.md",
     "readme.md",
     "Prostate Segmentation.md",
     "Data Acquisition.md",
@@ -148,7 +149,6 @@
     "Conda.md",
     "Unet Baseline.md",
     "Pytorch-Unet.md",
-    "Method.md",
     "Pytorch Original.md",
     "MONAI.md",
     "Baseline.md",

@@ -1,3 +1,3 @@
-[Baseline](Baseline.md)
-[Pytorch Original](Pytorch%20Original.md)
-[MONAI](MONAI.md)
+- [Baseline](Baseline.md)
+- [Pytorch Original](Pytorch%20Original.md)
+- [MONAI](MONAI.md)
